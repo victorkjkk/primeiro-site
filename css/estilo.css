@@ -5,6 +5,11 @@
 main{
     min-height:500px;
 }
+/*IMMAGEM */
+.navbar-brand img{
+    height: 50px;
+    width: 50px;
+}
 
 /*banner*/
 #section-banners img{
